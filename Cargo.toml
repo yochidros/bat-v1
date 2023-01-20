@@ -10,6 +10,6 @@ edition = "2021"
 ansi_term = "0.12.1"
 atty = "0.2.14"
 console = "0.15.2"
-git2 = "0.15.0"
+git2 = "0.16.1"
 syntect = "5.0.0"
 clap = { version = "4.0.2", features = ["wrap_help", "color", "suggestions", "cargo"] }
